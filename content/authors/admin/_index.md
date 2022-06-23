@@ -1,6 +1,6 @@
 ---
 title: Aishrila Mazumder
-role: Observational Cosmology
+role: Observational Cosmologist
 avatar_filename: avatar.jpg
 bio: My current research interests include 21-cm cosmology and radio astronomy.
 interests: []
