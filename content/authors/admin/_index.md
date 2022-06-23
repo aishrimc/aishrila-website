@@ -18,7 +18,7 @@ social:
     link: https://github.com/aishrimc
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/aishrila-mazumder-211104a4/
   - display:
       header: false
     link: https://www.facebook.com/aishrila.mazumder/
