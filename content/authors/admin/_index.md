@@ -30,9 +30,7 @@ organizations:
     url: https://www.stanford.edu/
 education:
   courses:
-  #  - course: PhD in Artificial Intelligence
-  #    institution: Stanford University
-  #    year: 2012
+ 
     - course: MSc. in Physics
       institution: Banaras Hindu University
       year: 2016
