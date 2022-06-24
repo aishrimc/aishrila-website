@@ -25,12 +25,9 @@ social:
     link: https://www.facebook.com/aishrila.mazumder/
     icon_pack: fab
     icon: facebook
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+organizations: []
 education:
   courses:
- 
     - course: MSc. in Physics
       institution: Banaras Hindu University
       year: 2016
