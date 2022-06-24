@@ -29,7 +29,7 @@ experience:
     company_logo: ''
     location: Indore
     date_start: '2017-25-07'
-    date_end: ''
+    date_end: 
    # description: Taught electronic engineering and researched semiconductor physics.
 
 design:
