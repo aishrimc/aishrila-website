@@ -39,7 +39,7 @@ experience:
   - title: Ph.D. Scholar at Department of Astronomy,Astrophyiscs and Space Engineering 
     company: Indian Institute of Technology Indore
     company_url: https://www.iiti.ac.in/
-    company_logo: iiti_logo
+    company_logo: ''
     location: Indore
     date_start: '2017-25-07'
     date_end: ''
