@@ -14,9 +14,9 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
+  - icon: gitlab
     icon_pack: fab
-    link: https://github.com/aishrimc
+    link: https://gitlab.com/amastro
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/aishrila-mazumder-211104a4/
