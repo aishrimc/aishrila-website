@@ -12,7 +12,7 @@ social:
     icon_pack: fab
     link: https://twitter.com/meaishri
   - icon: orcid
-    icon_pack: fas
+    icon_pack: ai
     link: https://orcid.org/0000-0003-3461-496X
   - icon: gitlab
     icon_pack: fab
