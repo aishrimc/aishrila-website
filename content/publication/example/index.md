@@ -21,15 +21,17 @@ abstract: Observation of the redshifted 21-cm signal from Cosmic Dawn and Epoch
   conditions towards detecting the cosmological signal. This end-to-end pipeline
   can also be extended to study effects of chromatic primary beam, radio
   frequency inferences, foregrounds with spectral features, etc.
-slides: example
+slides: ""
 url_pdf: ""
 publication_types:
   - "2"
 authors:
   - admin
-  - et al.
+  - Abhirup Datta
+  - Arnab Chakraborty
+  - Suman Majumdar
 author_notes: []
-publication: MNAS
+publication: MNRAS
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum.
@@ -38,12 +40,12 @@ url_project: ""
 publication_short: ""
 url_source: ""
 url_video: ""
-title: An example conference paper
+title: "Observing the reionization: effect of calibration and position errors on
+  realistic observation conditions"
 doi: https://doi.org/10.1093/mnras/stac1994
 featured: false
 tags: []
-projects:
-  - example
+projects: []
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
