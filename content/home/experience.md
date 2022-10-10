@@ -35,7 +35,7 @@ experience:
     company_logo: 
     location: Manchester
     date_start: '2022-09-12'
-    date_end: '
+    date_end: ''
  
 design:
   columns: '2'
