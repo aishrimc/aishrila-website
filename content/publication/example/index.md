@@ -1,79 +1,58 @@
 ---
-title: 'An example conference paper'
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+abstract: Observation of the redshifted 21-cm signal from Cosmic Dawn and Epoch
+  of Reionization is a challenging endeavor in observational cosmology. Presence
+  of orders of magnitude brighter astrophysical foregrounds and various
+  instrumental systematics increases the complexity of these observations. This
+  work presents an end-to-end pipeline dealing with synthetic interferometric
+  data of sensitive radio observations. The mock sky model includes the
+  redshifted 21-cm signal and astrophysical foregrounds. The effects of
+  calibration error and position error in the extraction of the redshifted 21-cm
+  power spectrum has been simulated. The effect of the errors in the image plane
+  detection of the cosmological signal has also been studied. A comparative
+  analysis for array configurations like the SKA1-Low, MWA, and HERA has been
+  demonstrated. The calibration error tolerance of the arrays, under some
+  assumptions about the nature of the systematic components, is optimally found
+  to be  ∼0.01 per cent  for the detection of the signal. For position errors,
+  an offset of ⪆5 arcsec makes the residual foregrounds obscure the target
+  signal. These simulations also imply that the SKA-1 Low performs marginally
+  better than the other telescopes in the image domain. The same is true for MWA
+  in the power spectrum domain. This is one of the first studies that compares
+  performance of various radio telescopes operating under similar observing
+  conditions towards detecting the cosmological signal. This end-to-end pipeline
+  can also be extended to study effects of chromatic primary beam, radio
+  frequency inferences, foregrounds with spectral features, etc.
+slides: example
+url_pdf: ""
+publication_types:
+  - "2"
 authors:
   - admin
-  - Robert Ford
-
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-
-date: '2013-07-01T00:00:00Z'
-doi: ''
-
-# Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ['1']
-
-# Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
+  - et al.
+author_notes: []
+publication: MNAS
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
+  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
+  condimentum.
+url_dataset: ""
+url_project: ""
+publication_short: ""
+url_source: ""
+url_video: ""
+title: An example conference paper
+doi: https://doi.org/10.1093/mnras/stac1994
+featured: false
 tags: []
-
-# Display this page in the Featured widget?
-featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
-  preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
 projects:
   - example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+image:
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  focal_point: ""
+  preview_only: false
+date: 2013-07-01T00:00:00Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: ""
 ---
 
 {{% callout note %}}
