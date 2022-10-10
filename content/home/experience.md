@@ -29,7 +29,13 @@ experience:
     location: Indore
     date_start: '2017-07-25'
     date_end: ''
-   
+  - title: Post Doctoral Research Associate
+    company: Jodrell Bank Centre for Astrophysics, University of Manchester
+    company_url: https://www.jodrellbank.manchester.ac.uk/
+    company_logo: 
+    location: Manchester
+    date_start: '2022-09-12'
+    date_end: '
  
 design:
   columns: '2'
