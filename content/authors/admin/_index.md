@@ -14,17 +14,9 @@ social:
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0003-3461-496X
-  - icon: gitlab
-    icon_pack: fab
-    link: https://gitlab.com/amastro
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/aishrila-mazumder-211104a4/
-  - display:
-      header: false
-    link: https://www.facebook.com/aishrila.mazumder/
-    icon_pack: fab
-    icon: facebook
 organizations: []
 education:
   courses:
