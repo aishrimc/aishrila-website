@@ -2,7 +2,7 @@
 title: Aishrila Mazumder
 role: Observational Cosmologist
 avatar_filename: avatar.jpg
-bio: My current research interests include 21-cm cosmology and radio astronomy.
+bio: My current research interests include 21-cm cosmology and large scale structures in the Universe.
 interests: []
 social:
   - icon: envelope
@@ -38,6 +38,5 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
+I am an observational cosmologists at the Jodrell Bank Centre for Astrophysics. I use data from telescopes to "see" whether the Universe behave the way the way theories predict. In the process I also try and learn about the telescopes themselves to make the conclusions I draw robust.
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Aishrila.pdf" "newtab" >}}CV{{< /staticref >}}.
