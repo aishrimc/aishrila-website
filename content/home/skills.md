@@ -17,8 +17,8 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: Data Reduction 
-    icon: telescope
-    icon_pack: fas
+    icon: satellite-dish
+    icon_pack: far
     name: Radio Astronomy
   - description: Data analysis
     icon: chart-line
