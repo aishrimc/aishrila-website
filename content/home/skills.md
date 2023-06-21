@@ -18,7 +18,7 @@ subtitle:
 feature:
   - description: Data Reduction 
     icon: satellite-dish
-    icon_pack: far
+    icon_pack: fal
     name: Radio Astronomy
   - description: Data analysis
     icon: chart-line
