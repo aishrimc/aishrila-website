@@ -18,7 +18,7 @@ subtitle:
 feature:
   - description: Data Reduction 
     icon: telescope
-    icon_pack: fab
+    icon_pack: fas
     name: Radio Astronomy
   - description: Data analysis
     icon: chart-line
@@ -26,7 +26,7 @@ feature:
     name: Cosmology, extragalactic astronomy
   - description: Programming
     icon: python
-    icon_pack: fas
+    icon_pack: fab
     name: Python
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
