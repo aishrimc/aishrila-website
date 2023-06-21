@@ -18,7 +18,7 @@ subtitle:
 feature:
   - description: Data Reduction 
     icon: satellite-dish
-    icon_pack: fat
+    icon_pack: fas
     name: Radio Astronomy
   - description: Data analysis
     icon: chart-line
