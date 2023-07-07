@@ -2,7 +2,7 @@
 title: Aishrila Mazumder
 role: Observational Cosmologist
 avatar_filename: avatar.jpg
-bio: My current research interests include 21-cm cosmology and large scale structures in the Universe.
+bio: My research interests is using survey data at different wavelengths to study the large scale structures of the Universe.
 interests: []
 social:
   - icon: envelope
@@ -20,15 +20,20 @@ social:
 organizations: []
 education:
   courses:
+    - course: PhD. in Cosmology
+    - institution: Indian Institute of Technology Indore
+    - year: 2023
     - course: MSc. in Physics
       institution: Banaras Hindu University
       year: 2016
     - course: BSc. in Physics (with Honours)
       institution: University of Calcutta
-      year: 2011
+      year: 2011 
 email: ""
 superuser: true
 highlight_name: true
----
-I am an observational cosmologists at the Jodrell Bank Centre for Astrophysics. I use data from telescopes to "see" whether the Universe behave the way the way theories predict. In the process I also try and learn about the telescopes themselves to make the conclusions I draw robust.
+
+I am a Post Doctoral Research Associate at [Jodrell Bank Centre for Astrophysics, University of Manchester](https://www.jodrellbank.manchester.ac.uk/). 
+
+My resarch interest is using data from radio and optical telescopes to study how the Universe grows and evolves over time. 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Aishrila.pdf" "newtab" >}}CV{{< /staticref >}}.
