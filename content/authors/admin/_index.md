@@ -21,8 +21,8 @@ organizations: []
 education:
   courses:
     - course: PhD. in Cosmology
-    - institution: Indian Institute of Technology Indore
-    - year: 2023
+      institution: Indian Institute of Technology Indore
+      year: 2023
     - course: MSc. in Physics
       institution: Banaras Hindu University
       year: 2016
