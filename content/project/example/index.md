@@ -7,7 +7,7 @@ summary: Detecting HI power spectrum at low redshift using data from MeerKAT MIG
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://www.mighteesurvey.org/'
 
-image:
+image: TNG300_gas_dens_temp_375Mpc_4k.jpg
 caption: Credit: TNG Collaboration
 focal_point: Smart
 
