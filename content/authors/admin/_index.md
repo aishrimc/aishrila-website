@@ -35,5 +35,5 @@ highlight_name: true
 ---
 I am a Post Doctoral Research Associate at [Jodrell Bank Centre for Astrophysics, University of Manchester](https://www.jodrellbank.manchester.ac.uk/). 
 
-My resarch interest is using data from radio and optical telescopes to study how the Universe grows and evolves over time. 
+My present resarch is focused on HI Intensity Mapping. Neutral hydrogen (or HI) is an excellent probe to trace the structure formation and evolution of the Universe. I use data from radio telescope to map this HI from at early cosmic times to learn about the underlying processes that make large scale structures the way they are today.
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Aishrila.pdf" "newtab" >}}CV{{< /staticref >}}.
