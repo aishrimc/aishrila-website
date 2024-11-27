@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: aishrila[dot]mazumder[at]manchester[dot]ac[dot]uk
+  email: aishrila.mazumder@manchester.ac.uk
   #phone: 888 888 88 88
   # address:
   #  street: 450 Serra Mall
